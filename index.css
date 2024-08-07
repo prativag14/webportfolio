@@ -30,21 +30,24 @@ footer {
 	align-items: center;
 }
 
-nav a {
+/*nav a {
 	text-align: justify;
 	font-family: Montserrat;
 	font-size: 20px;
 	font-weight: 500 ;
 	line-height: 24px ;
 	font-style: normal ;
+	background-color: black;
 	color: white;
-	background-color: darkred;
+}*/
+
+#navbar {
+	background-color: black;
+	color: white;
 }
 
-nav {
-	
-	background-color: black !important;
-}
+
+
 
 
 
